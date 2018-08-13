@@ -1,6 +1,8 @@
 package libray.start;
 
 import library.model.*;
+import library.controller.*;
+import library.view.*;
 
 public class Init {
 
